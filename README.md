@@ -16,8 +16,6 @@
 - **API Integration**: Connecting front-end to back-end for full-stack functionality.
 - **Tailwind CSS**: Implementing efficient, responsive designs.
 
----
-
 ### 🌟 Highlights
 
 - 🔥 Experienced in creating elegant, user-friendly interfaces.
