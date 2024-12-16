@@ -1,5 +1,5 @@
 <h2 align="left">A Passionate Web Developer</h2>
-
+---
 <p align="left">
   I'm a passionate frontend developer with a strong focus on crafting dynamic, responsive web applications. 
   With over a year of experience, I transform ideas into seamless user experiences using high-quality, maintainable code.
@@ -16,7 +16,7 @@
 - **API Integration**: Connecting front-end to back-end for full-stack functionality.
 - **Tailwind CSS**: Implementing efficient, responsive designs.
 
-
+---
 
 ### 🌟 Highlights
 
