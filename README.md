@@ -18,16 +18,6 @@
 
 ---
 
-<div align="center">
-
-### 🐍 Watch the Snake Game in Action!
-
-<img src="https://raw.githubusercontent.com/your-username/snake-game-animation/main/snake-game-animation.gif" alt="Snake Game Animation" width="600" />
-
-</div>
-
----
-
 ### 🌟 Highlights
 
 - 🔥 Experienced in creating elegant, user-friendly interfaces.
