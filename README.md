@@ -1,7 +1,3 @@
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=%23ff5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Arbaz+Uddin;" />
-</h3>
-
 <h2 align="left">A Passionate Web Developer</h2>
 
 <p align="left">
@@ -27,8 +23,7 @@
 
 ### 📫 Get in Touch
 
-- **GitHub**: [github.com/yourusername](#)
-- **LinkedIn**: [linkedin.com/in/yourusername](#)
-- **Portfolio**: [yourportfolio.com](#)
+- **LinkedIn**: [linkedin.com/in/https:/arbaz-uddin/](#)
+- **Portfolio**: [arbazportfolio.vercel.app](#)
 
 </div>
