@@ -5,8 +5,6 @@
   With over a year of experience, I transform ideas into seamless user experiences using high-quality, maintainable code.
 </p>
 
-<br/>
-
 <div align="left">
 
 ### 🚀 Skills & Expertise
