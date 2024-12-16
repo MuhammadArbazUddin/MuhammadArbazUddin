@@ -21,9 +21,4 @@
 - 💻 Dedicated to writing clean, maintainable, and performant code.
 - 🌍 Thrilled about learning and leveraging the latest web technologies.
 
-### 📫 Get in Touch
-
-- **LinkedIn**: [linkedin.com/in/https:/arbaz-uddin/](#)
-- **Portfolio**: [arbazportfolio.vercel.app](#)
-
 </div>
