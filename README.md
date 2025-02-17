@@ -1,5 +1,5 @@
 
-<h2 align="left" >Frontend Developer Specialized in React</h2>
+<h2 align="left"  >Passionate Frontend Developer Specialized in React</h2>
 
 <p align="left">
   I'm a passionate frontend developer with a strong focus on crafting dynamic, responsive web applications. 
